@@ -14,14 +14,12 @@ ChurnDetect is a machine learning-based system designed to predict customer chur
 ## Project Structure
 ```
 The project structure for the files `ChurnData.csv` and `README.md` in the `ChurnDetect` repository would look like this:
-
 ```
 ChurnDetect/
 │
 │-- ChurnData.csv       # Dataset file
 │
 │-- README.md           # Project documentation
-```
 
 
 ## Installation

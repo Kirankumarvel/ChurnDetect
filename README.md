@@ -1,8 +1,10 @@
+Here is the reformatted content:
 
+```markdown
 # ChurnDetect - AI-powered Churn Detection 🔍
 
 ## Overview
-ChurnDetect is a machine learning-based system designed to predict customer churn. By analyzing customer behavior and historical data, it helps businesses take proactive measures to retain customers. 
+ChurnDetect is a machine learning-based system designed to predict customer churn. By analyzing customer behavior and historical data, it helps businesses take proactive measures to retain customers.
 
 ## Features
 - 🔍 **Churn Prediction:** Identifies customers at risk of churning.
@@ -12,15 +14,14 @@ ChurnDetect is a machine learning-based system designed to predict customer chur
 - 🚀 **Deployment-Ready:** Can be integrated into business workflows via API.
 
 ## Project Structure
-```
-The project structure for the files `ChurnData.csv` and `README.md` in the `ChurnDetect` repository would look like this:
+The project structure for the files `ChurnData.csv`, `ChurnData.py`, and `README.md` in the `ChurnDetect` repository would look like this:
 ```
 ChurnDetect/
 │
 │-- ChurnData.csv       # Dataset file
-│
+│-- ChurnData.py        # Main file
 │-- README.md           # Project documentation
-
+```
 
 ## Installation
 ```sh
@@ -58,7 +59,3 @@ This project is licensed under the MIT License.
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve the project.
-
-## Author
-[Kumar](https://yourwebsite.com) 🚀
-```

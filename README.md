@@ -1,6 +1,4 @@
-Sure, here is the reformatted content:
 
-```markdown
 # ChurnDetect - AI-powered Churn Detection 🔍
 
 ## Overview

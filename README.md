@@ -13,29 +13,16 @@ ChurnDetect is a machine learning-based system designed to predict customer chur
 
 ## Project Structure
 ```
-ChurnDetect/
-│-- data/               # Dataset folder
-│   ├── raw/           # Raw dataset files
-│   ├── processed/     # Processed datasets for training
-│
-│-- models/             # Trained models and checkpoints
-│   ├── model.pkl      # Saved model
-│
-│-- notebooks/          # Jupyter Notebooks for EDA and training
-│
-│-- src/                # Source code for training and inference
-│   ├── data_preprocessing.py  # Data cleaning & feature engineering
-│   ├── train.py        # Model training script
-│   ├── predict.py      # Prediction script
-│   ├── utils.py        # Helper functions
-│
-│-- tests/              # Unit tests for scripts
-│
-│-- requirements.txt    # Dependencies
-│-- README.md           # Project documentation
-│-- config.yaml         # Configuration file
-│-- app.py              # Flask API for predictions
+The project structure for the files `ChurnData.csv` and `README.md` in the `ChurnDetect` repository would look like this:
+
 ```
+ChurnDetect/
+│
+│-- ChurnData.csv       # Dataset file
+│
+│-- README.md           # Project documentation
+```
+
 
 ## Installation
 ```sh
